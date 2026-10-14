@@ -14,5 +14,8 @@
     "symposium"
   ],
   "author": "IEEE-SB NBKRIST",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
 }
